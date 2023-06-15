@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;700;800;900&display=swap");
 @font-face {
   font-family: ibm;
-  src: url("../font/IBM_Plex_Sans_Thai/IBMPlexSansThai-Regular.ttf");
+  src: url("https://raw.githack.com/Pureku/share-point/main/font/IBM_Plex_Sans_Thai/IBMPlexSansThai-Regular.ttf?raw=true");
 }
 
 * {
@@ -72,6 +72,11 @@ body {
   border-radius: 10px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   transition: transform 0.2s ease-in-out;
+}
+
+.img-cls {
+  max-width: 150px;
+  max-height: 150px;
 }
 
 /* ======== General styling of all cards and heart divs ========== */
