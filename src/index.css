@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;700;800;900&display=swap");
 @font-face {
   font-family: ibm;
   src: url("https://raw.githack.com/Pureku/share-point/main/font/IBM_Plex_Sans_Thai/IBMPlexSansThai-Regular.ttf?raw=true");
@@ -11,7 +10,7 @@
 
 :root {
   font-size: 16px;
-  font-family: "Rubik";
+  font-style: ibm;
   --heading-color: hsl(0, 0%, 7%);
   --date-text-color: hsl(0, 0%, 51%);
   --previous-price-text-color: hsl(0, 98%, 44%);
@@ -37,7 +36,6 @@ html {
 
 body {
   border: none;
-  font-family: ibm;
 }
 
 .container input {
