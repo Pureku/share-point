@@ -396,7 +396,7 @@ section {
     box-sizing: border-box;
     min-width: 0px;
     padding-top: 50%;
-    background-image: url(../image/isvsit.jpg);
+    background-image: url(https://raw.githack.com/Pureku/share-point/main/image/training01.jpg?raw=true );
     background-size: cover;
     background-position: center center;
     position: relative;
@@ -511,8 +511,8 @@ section {
 }
 
 .img-cls {
-  max-width: 150px;
-  max-height: 150px;
+  max-width: 300px;
+  max-height: 200px;
 }
 
 /* ======== General styling of all cards and heart divs ========== */
@@ -572,7 +572,7 @@ section {
 
 /* God of war image and heart-background*/
 .gow-img-div {
-  background-color: rgb(31 110 140);
+  background-color: rgb(184 208 217);
 }
 
 .gow-img-div img {
@@ -582,26 +582,25 @@ section {
 }
 
 .card-1 .like-icon-div {
-  background-color: rgb(31 110 140);
+  background-color: rgb(184 208 217);
 }
 
 /* Sekiro image and heart-background */
 .sekiro-img-div {
-  background-color: rgb(132 167 161);
+  background-color: rgb(209 221 219);
 }
 
 .sekiro-img-div img {
-  width: 45%;
   transform: translateY(7.5%);
 }
 
 .card-2 .like-icon-div {
-  background-color: rgb(132 167 161);
+  background-color: rgb(209 221 219);
 }
 
 /* Dazai image and heart-background */
 .dazai-img-div {
-  background-color: rgb(31 110 140);
+  background-color: rgb(184 208 217);
 }
 
 .dazai-img-div img {
@@ -610,12 +609,12 @@ section {
 }
 
 .card-3 .like-icon-div {
-  background-color: rgb(31 110 140);
+  background-color: rgb(184 208 217);
 }
 
 /* U4 image and heart-background*/
 .u4-img-div {
-  background-color: rgb(132 167 161);
+  background-color: rgb(209 221 219);
 }
 
 .u4-img-div img {
@@ -624,7 +623,7 @@ section {
 }
 
 .card-4 .like-icon-div {
-  background-color: rgb(132 167 161);
+  background-color: rgb(209 221 219);
 }
 
 /* ======== text Container Styling general ======== */
